@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+.entry-header .gcofa-row {
+	overflow: auto;
+	margin-bottom: 0.5rem;
+	margin-top: 0.5rem;
+	background-color: transparent;
+	padding:10px;
+}
+
+.entry-header .gcofa-row img {
+	border: 1px solid #cccccc;
+	float:left;
+	margin-right:20px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.gcofa-entry-row {
+	overflow: auto;
+	margin-bottom: 1.25rem;
+}
+
+.gcofa-row {
+	overflow: auto;
+	margin-bottom: 1.25rem;
+	background-color: #fcfcfc;
+	padding: 5px 10px;
+}
+
+.family-group {
+	float: left;
+	width: 50%;
+}
+
+.life-facts {
+	float: left;
+	width: 45%;
+}
+
+.life-facts {
+	margin-right: 5%;
+}
+
+.gcofa-title {
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+	text-transform: uppercase;
+	border-bottom: 3px solid #e64946;
+}
+
+.LifeDates {
+	margin-left: 0.625rem;
+	margin-top: 0.5rem;
+	color: #575757;
+	font-weight: bold;
+}
+
+/* Custom Pedigree Style */
+div.emperor-pedigree {
+	border: solid 1px #ccc;
+	margin-bottom: 2em;
+	padding: 15px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+ }
+div.emperor-pedigree + p {
+	margin-top: 2em;
+}
+.emperor-pedigree table {
+	border: 0;
+	border-collapse: separate!important;
+}
+.emperor-pedigree td, .emperor-pedigree th {
+	border: 0;
+}
+.emperor-pedigree .head {
+	border-bottom: 2px solid black!important;
+}
+.emperor-pedigree .leftborder {
+	border-left: 2px solid black;
+}
