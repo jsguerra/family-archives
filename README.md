@@ -3,4 +3,4 @@ Family Archives is a plugin which allows for the creation of basic genealogy pro
 
 The pedigree is based on 'emperor.js' a Javascript script for embedding pedigree charts into blog posts.
 
-This is my first plugin, still under development.
+This is my first plugin, it's still under development.
